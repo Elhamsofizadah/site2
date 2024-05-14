@@ -1,0 +1,77 @@
+#navbarnavaltmarkup {
+  margin-left:50px ;
+}
+#nav{
+  margin-left: 110px;
+}
+#Pricing{
+ text-align: center;
+justify-content: center; 
+
+}
+#x{
+  margin-left:140px ;
+}
+#p{
+margin-left: 250px;
+text-align: center;
+justify-content: center;
+}
+.container:hover{
+ transition: transform 0.5s ease-in-out;
+}
+#o{
+  align-items: center;
+  text-align: center;
+ justify-content: center;
+}
+#Testimonial-carousel{
+  text-align: center;
+  background-color: rgb(157, 167, 167);
+  color: black;
+  height: 200px;
+}
+.animate-img{
+  width: 150px;
+  height: 150px;
+  align-items: center;
+}
+
+.footer{
+  background-color: rgb(157, 167, 167);
+  text-align: center;
+  padding: 5px;
+}
+#ot{
+  text-align: center;
+  justify-content: center; 
+}
+.col-sm-4 {
+  margin-left: 210px;
+}
+.card{
+  align-items: center;
+}
+#c {
+align-items: center;
+width:360%;
+margin-left: 100px;
+}
+#m {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+@keyframes fadeInOut{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+  }
+}
+#i:hover{
+  animation: fadeInOut 3s ease-in-out infinite;
+}
