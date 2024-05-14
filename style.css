@@ -4,6 +4,11 @@
 #nav{
   margin-left: 110px;
 }
+.carousel-item{
+            width: 1000px;
+            height: 420px;
+            margin-left: 180px;
+}
 #Pricing{
  text-align: center;
 justify-content: center; 
