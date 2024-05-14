@@ -12,10 +12,12 @@ justify-content: center;
 .service-cards{
   text-align:center;
   margin-left:0;
+  width:400px;
 }
 .portfolio-cards{
   justify-content:center;
   align-items:center;
+  margin-left:0;
 }
 #x{
   margin-left:140px ;
