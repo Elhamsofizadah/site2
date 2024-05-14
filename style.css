@@ -10,7 +10,8 @@ justify-content: center;
 
 }
 .service-cards{
-  
+  text-align:center;
+  margin-left:0;
 }
 .portfolio-cards{
   justify-content:center;
